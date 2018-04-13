@@ -1,0 +1,18 @@
+{
+    "name": "extendbit-2",
+    "version": "0.0.0",
+    "description": "extendbit-2 makecode driver library",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.3.10"
+    },
+    "files": [
+        "README.md",
+        "extendbit-2.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

@@ -1,0 +1,15 @@
+{
+  "extendbit_2": "Functions for extendbit_2",
+  "extendbit_2.BuzzerPitch": "Notice:Install the buzzer jump cap before use !\nbuzzer Emits a Pulse-width modulation (PWM) signal to the  pin0. More advanced application,can use music module.",
+  "extendbit_2.BuzzerPitch|param|frequency": "frequency to modulate in Hz. eg:1000",
+  "extendbit_2.BuzzerPitch|param|ms": "duration of the pitch in milli seconds.     eg:1000",
+  "extendbit_2.MotorRun": "extendbit M1-M4 Motors driver ,speed:-255~255.",
+  "extendbit_2.MotorStopAll": "stop all Motor",
+  "extendbit_2.Servo": "S1-S4 Servo Execute,0-180 degree",
+  "extendbit_2.Servo|param|degree": "[0-180] degree of servo; eg: 0,90,180",
+  "extendbit_2.Servo|param|index": "Servo Channel; eg: S1",
+  "extendbit_2.SoundValue": "Notice:Install the Sound sensor jump cap before use !",
+  "extendbit_2.StepperDegree": "stepper driver:When the angle is positive, turn clockwise, if negative, turn counterclockwise.",
+  "extendbit_2.StepperDegree|param|index": "steppers Channel; eg: 1",
+  "extendbit_2.lightValue": "Notice:Install the light sensor jump cap before use !"
+}

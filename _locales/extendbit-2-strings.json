@@ -1,0 +1,12 @@
+{
+  "extendbit_2.BuzzerPitch|block": "buzzer pitch %frequency|for (ms) %ms",
+  "extendbit_2.MotorRun|block": "MotorRun|%index|speed %speed",
+  "extendbit_2.MotorStopAll|block": "Motor Stop All",
+  "extendbit_2.MotorStop|block": "Motor Stop|%index|",
+  "extendbit_2.Servo|block": "Servo|%index|degree %degree",
+  "extendbit_2.SoundValue|block": "Sound sensor value",
+  "extendbit_2.StepperDegree|block": "Stepper 28BYJ-48|%index|degree %degree",
+  "extendbit_2.lightValue|block": "light sensor value",
+  "extendbit_2|block": "extendbit-2",
+  "{id:category}Extendbit_2": "Extendbit_2"
+}
