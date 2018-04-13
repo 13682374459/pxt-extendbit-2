@@ -4,6 +4,7 @@
   "extendbit_2.BuzzerPitch|param|frequency": "frequency to modulate in Hz. eg:1000",
   "extendbit_2.BuzzerPitch|param|ms": "duration of the pitch in milli seconds.     eg:1000",
   "extendbit_2.MotorRun": "extendbit M1-M4 Motors driver ,speed:-255~255.",
+  "extendbit_2.MotorRun|param|speed": "-255~255;  eg:255",
   "extendbit_2.MotorStopAll": "stop all Motor",
   "extendbit_2.Servo": "S1-S4 Servo Execute,0-180 degree",
   "extendbit_2.Servo|param|degree": "[0-180] degree of servo; eg: 0,90,180",

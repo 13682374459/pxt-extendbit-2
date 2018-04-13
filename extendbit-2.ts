@@ -191,6 +191,7 @@ namespace extendbit_2 {
 
     /**
      * extendbit M1-M4 Motors driver ,speed:-255~255.
+     * @param speed -255~255;  eg:255
      */
     //% blockId=extenbit_motor_run block="MotorRun|%index|speed %speed"
     //% weight=88
