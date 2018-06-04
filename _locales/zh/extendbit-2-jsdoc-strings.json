@@ -1,0 +1,16 @@
+{
+  "extendbit_2": "扩展板2的模块",
+  "extendbit_2.BuzzerPitch": "注意:使用蜂鸣器前须套上跳线帽 ! \n 蜂鸣器将脉冲宽度调制(Pwm)信号发射到引脚0，更多扩展应用方式请使用音乐模块。",
+  "extendbit_2.BuzzerPitch|param|frequency": "frequency to modulate in Hz. eg:1000",
+  "extendbit_2.BuzzerPitch|param|ms": "duration of the pitch in milli seconds.     eg:1000",
+  "extendbit_2.MotorRun": "电机转速范围: -255~255.",
+  "extendbit_2.MotorRun|param|speed": "-255~255;  eg:255",
+  "extendbit_2.MotorStopAll": "停止全部电机",
+  "extendbit_2.Servo": "舵机角度范围: 0-180",
+  "extendbit_2.Servo|param|degree": "[0-180] degree of servo; eg: 0,90,180",
+  "extendbit_2.Servo|param|index": "Servo Channel; eg: S1",
+  "extendbit_2.SoundValue": "注意:使用声音传感器前须套上跳线帽 !",
+  "extendbit_2.StepperDegree": "顺时针转动为正数，反之为负",
+  "extendbit_2.StepperDegree|param|index": "steppers Channel; eg: 1",
+  "extendbit_2.lightValue": "注意:使用光线传感器前须套上跳线帽 !"
+}

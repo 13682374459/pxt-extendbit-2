@@ -1,0 +1,13 @@
+{
+  "extendbit_2.BuzzerPitch|block": "播放音调 %frequency|延时 (ms) %ms",
+  "extendbit_2.MotorRun|block": "电机|%index|转速 %speed",
+  "extendbit_2.MotorStopAll|block": "停止全部电机",
+  "extendbit_2.MotorStop|block": "电机|%index|停止",
+  "extendbit_2.Servo|block": "舵机|%index|角度 %degree",
+  "extendbit_2.SoundValue|block": "声音传感器的值",
+  "extendbit_2.StepperDegree|block": "步进电机|%index|转速 %degree",
+  "extendbit_2.lightValue|block": "光线传感器的值",
+  "extendbit_2|block": "扩展板2",
+  "{id:category}Extendbit_2": "扩展板2"
+}
+
