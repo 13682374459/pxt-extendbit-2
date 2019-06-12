@@ -1,5 +1,5 @@
 {
-  "extendbit_2": "Functions for extendbit-2",
+  "extendbit_2": "123123Functions for extendbit-2",
   "extendbit_2.BuzzerPitch": "Notice:Install the buzzer jump cap before use !\nbuzzer Emits a Pulse-width modulation (PWM) signal to the  pin0. More advanced application,can use music module.",
   "extendbit_2.BuzzerPitch|param|frequency": "frequency to modulate in Hz. eg:1000",
   "extendbit_2.BuzzerPitch|param|ms": "duration of the pitch in milli seconds.     eg:1000",
